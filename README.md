@@ -1,7 +1,7 @@
 # naturesbeauty
 # BeautybyNature
 
-This app was created for the purpose of assisting customer's of The Iowa Soap Shed to better identify handmade all-natural and organic products that are best suited for their skin and hair type, for their pets, for household use, and more. 
+The Beauty by Nature app was created for the purpose of assisting customer's of The Iowa Soap Shed to better identify handmade all-natural and organic products that are best suited for their skin and hair type, for their pets, for household use, and more. 
 
 /**********************************************************/
 
